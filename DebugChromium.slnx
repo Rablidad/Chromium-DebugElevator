@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DebugChromium/DebugChromium.vcxproj" Id="2e46c76a-5b58-41b9-980e-4df7e999c201" />
+</Solution>
