@@ -1,4 +1,4 @@
-# Chromium-DebugElevator <sup><sub><sup>(`Chrome App-Bound Encryption Decryption`)
+# Chromium-DebugElevator <sup><sub><sup>(`Debug Chrome App-Bound Key-Extractor`)
 
 ![Debugger attached to Chromium](./images/image_1.png)
 ## 🚀 Overview
